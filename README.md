@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ak42011
+- 👋 Hi, I’m Avinash kumar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning BCA
+- my youtube channel https://youtube.com/channel/UCTzWzza1CbSJgy4a6GZZrAg
 - 📫 How to reach me ...
 
 <!---
